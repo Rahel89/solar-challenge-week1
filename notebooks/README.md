@@ -1,5 +1,7 @@
 Solar Energy Analysis Project
+
 Overview
+
 This project analyzes the solar energy potential across three West African countries: Benin, Sierra Leone, and Togo. By examining key metrics such as Global Horizontal Irradiance (GHI), Direct Normal Irradiance (DNI), and Diffuse Horizontal Irradiance (DHI), the project aims to provide insights that can guide solar energy development and investment decisions in the region.
 
 Task 2: Data Profiling, Cleaning and EDA
@@ -33,6 +35,7 @@ Direct Normal Irradiance (DNI): Solar radiation received directly from the sun.
 Diffuse Horizontal Irradiance (DHI): Solar radiation received from the sky, excluding direct sunlight.
 
 Analysis
+
 The analysis includes:
 
 Summary statistics for GHI, DNI, and DHI by country.
